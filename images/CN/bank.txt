@@ -1,0 +1,16 @@
+101 ADITYA 0 14/11/2000 CURRENT
+102 Anil 10000 20/05/2011 saving
+103 Naman 0 20/08/2009 current
+104 Ram 10000 15/08/2010 saving
+105 Jyotsna 5000 16/06/2012 saving
+106 Mukesh 14000 20/12/2009 Current
+107 Vishal 14500 30/11/2011 saving
+108 Chirag 0 15/12/2012 Current
+109 Arya 16000 14/12/2010 Current
+110 Priya 130 16/11/2009 Saving
+201 Bina 3000 11/03/2010 saving
+202 Diya 4000 13/04/2018 Saving
+203 Gargi 2000 21/01/2015 current
+204 Hina  30000 14/02/2014 saving 
+205 Kalpana 4000 8/9/2007 Current 
+301 Nikhil 7777 8/9/1999 saving
